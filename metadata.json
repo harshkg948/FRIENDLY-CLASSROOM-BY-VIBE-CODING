@@ -1,0 +1,9 @@
+{
+  "name": "Friendly Classroom",
+  "description": "A smart attendance and classroom management app with AI-powered features for teachers and students.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
